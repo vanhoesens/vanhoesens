@@ -3,6 +3,6 @@
 - We are doing research in the area of Medical Imaging and Semiconductor Optics.
 - Our work primarily uses Matlab, but we also use Python and R.
 
-You can email me at: svanhoesen@wpi.edu
+- You can email me at: svanhoesen@wpi.edu
 
 
